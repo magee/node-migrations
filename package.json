@@ -1,0 +1,11 @@
+{
+  "name": "migrations",
+  "version": "0.0.1",
+  "description": "Test various Rails style migration tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Magee Mooney",
+  "license": "ISC"
+}
